@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "https://dahc36.github.io/my-react-app",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
