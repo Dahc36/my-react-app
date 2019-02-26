@@ -1,11 +1,11 @@
 {
-  "main.js": "/myapp/static/js/main.4023957c.chunk.js",
-  "main.js.map": "/myapp/static/js/main.4023957c.chunk.js.map",
-  "runtime~main.js": "/myapp/static/js/runtime~main.569b2b33.js",
-  "runtime~main.js.map": "/myapp/static/js/runtime~main.569b2b33.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/myapp/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/myapp/static/js/2.c88c70e5.chunk.js.map",
-  "index.html": "/myapp/index.html",
-  "precache-manifest.c6b41f1ad3b6e07fd3151245aa636548.js": "/myapp/precache-manifest.c6b41f1ad3b6e07fd3151245aa636548.js",
-  "service-worker.js": "/myapp/service-worker.js"
+  "main.js": "/my-react-app/static/js/main.4023957c.chunk.js",
+  "main.js.map": "/my-react-app/static/js/main.4023957c.chunk.js.map",
+  "runtime~main.js": "/my-react-app/static/js/runtime~main.74eff99c.js",
+  "runtime~main.js.map": "/my-react-app/static/js/runtime~main.74eff99c.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/my-react-app/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/my-react-app/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/my-react-app/index.html",
+  "precache-manifest.8d573ae7f5e6e2314e6f22ff46d7efaa.js": "/my-react-app/precache-manifest.8d573ae7f5e6e2314e6f22ff46d7efaa.js",
+  "service-worker.js": "/my-react-app/service-worker.js"
 }
